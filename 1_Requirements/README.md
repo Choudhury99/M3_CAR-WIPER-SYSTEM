@@ -5,8 +5,6 @@ The operational speed of a wiper is controlled by a wiper speed control system i
 
 
 
-
-
 # SOFTWARE USED : 
 
 1) STM32CubeIDE
