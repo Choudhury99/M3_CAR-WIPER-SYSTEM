@@ -1,10 +1,3 @@
-DOXY_FILE = WiperControl system
-BUILD_FILE = html
-
-FixPath = $(subst /,\,$1)
-
+# Document The Code Using Doxygen
 doc:
-	doxygen ./$(DOXY_FILE)
-
-clean:
-	rm -rf $(call FixPath,$(BUILD_FILE)/*)
+	doxygen ./Doxyfile
