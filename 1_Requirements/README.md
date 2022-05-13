@@ -92,7 +92,17 @@ Assuming that the automobile is the microcontroller(STM32F407VG). If the button 
  
  * The wiper cleans the front and rear windshields of the car, albeit not all cars have wipers on the back side. WIper cleans the windshield by removing oil, dust, moisture, and grime that have become attached.
 
- 
+ # HIGH LEVEL REQUIREMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HL1 | car wiper using STM32F407VG | Implemented |
+| HL2 | Led glowing in sequence| Implemented |
+| HL3 | Car on and off | Implemented |
+# LOW LEVEL REQUIREMENTS
+| ID | Description | Status |
+| ---|:------------|:-------|
+| HL1-LL1 | Push Button | Implemented | 
+| HL2-LL2 | Red,Green,Blue Leds | Implemented |
 
 
  
