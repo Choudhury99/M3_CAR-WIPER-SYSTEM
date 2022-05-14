@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/101013962/168434780-f24be504-8aa6-4651-a399-866b235a5e3d.png)
 
 3. WIPER SPEED MEDIUM
+
 ![image](https://user-images.githubusercontent.com/101013962/168435398-1bf8c4c0-57a5-4512-a40b-476d58ba0548.png)
 
 4. WIPER SPEED IS HIGH
